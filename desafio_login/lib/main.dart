@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       title: 'Desafio Login',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.green,
         fontFamily: 'Nunito',
       ),
       home: LoginPage(),
